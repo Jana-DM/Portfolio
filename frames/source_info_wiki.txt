@@ -1,0 +1,504 @@
+== Source Information ==
+
+These frames were extracted from [[File:Smiling_and_turning_head_20261022185552.mp4]] using [https://videotojpg.com videotojpg.com].
+
+=== Suggested {{Information}} template ===
+
+<nowiki>
+{{Information
+|description=Frame extracted from [[File:Smiling_and_turning_head_20261022185552.mp4]]
+|source={{Extracted from|Smiling_and_turning_head_20261022185552.mp4}}
+|date={{According to Exif data}}
+|author=
+|permission=
+|other versions=
+}}
+</nowiki>
+
+=== Extracted frames ===
+
+* [[File:img_00001.png]] - frame at 0s
+* [[File:img_00002.png]] - frame at 0s33ms
+* [[File:img_00003.png]] - frame at 0s67ms
+* [[File:img_00004.png]] - frame at 0s100ms
+* [[File:img_00005.png]] - frame at 0s133ms
+* [[File:img_00006.png]] - frame at 0s167ms
+* [[File:img_00007.png]] - frame at 0s200ms
+* [[File:img_00008.png]] - frame at 0s233ms
+* [[File:img_00009.png]] - frame at 0s267ms
+* [[File:img_00010.png]] - frame at 0s300ms
+* [[File:img_00011.png]] - frame at 0s333ms
+* [[File:img_00012.png]] - frame at 0s367ms
+* [[File:img_00013.png]] - frame at 0s400ms
+* [[File:img_00014.png]] - frame at 0s433ms
+* [[File:img_00015.png]] - frame at 0s467ms
+* [[File:img_00016.png]] - frame at 0s500ms
+* [[File:img_00017.png]] - frame at 0s533ms
+* [[File:img_00018.png]] - frame at 0s567ms
+* [[File:img_00019.png]] - frame at 0s600ms
+* [[File:img_00020.png]] - frame at 0s633ms
+* [[File:img_00021.png]] - frame at 0s667ms
+* [[File:img_00022.png]] - frame at 0s700ms
+* [[File:img_00023.png]] - frame at 0s733ms
+* [[File:img_00024.png]] - frame at 0s767ms
+* [[File:img_00025.png]] - frame at 0s800ms
+* [[File:img_00026.png]] - frame at 0s833ms
+* [[File:img_00027.png]] - frame at 0s867ms
+* [[File:img_00028.png]] - frame at 0s900ms
+* [[File:img_00029.png]] - frame at 0s933ms
+* [[File:img_00030.png]] - frame at 0s967ms
+* [[File:img_00031.png]] - frame at 1s
+* [[File:img_00032.png]] - frame at 1s33ms
+* [[File:img_00033.png]] - frame at 1s67ms
+* [[File:img_00034.png]] - frame at 1s100ms
+* [[File:img_00035.png]] - frame at 1s133ms
+* [[File:img_00036.png]] - frame at 1s167ms
+* [[File:img_00037.png]] - frame at 1s200ms
+* [[File:img_00038.png]] - frame at 1s233ms
+* [[File:img_00039.png]] - frame at 1s267ms
+* [[File:img_00040.png]] - frame at 1s300ms
+* [[File:img_00041.png]] - frame at 1s333ms
+* [[File:img_00042.png]] - frame at 1s367ms
+* [[File:img_00043.png]] - frame at 1s400ms
+* [[File:img_00044.png]] - frame at 1s433ms
+* [[File:img_00045.png]] - frame at 1s467ms
+* [[File:img_00046.png]] - frame at 1s500ms
+* [[File:img_00047.png]] - frame at 1s533ms
+* [[File:img_00048.png]] - frame at 1s567ms
+* [[File:img_00049.png]] - frame at 1s600ms
+* [[File:img_00050.png]] - frame at 1s633ms
+* [[File:img_00051.png]] - frame at 1s667ms
+* [[File:img_00052.png]] - frame at 1s700ms
+* [[File:img_00053.png]] - frame at 1s733ms
+* [[File:img_00054.png]] - frame at 1s767ms
+* [[File:img_00055.png]] - frame at 1s800ms
+* [[File:img_00056.png]] - frame at 1s833ms
+* [[File:img_00057.png]] - frame at 1s867ms
+* [[File:img_00058.png]] - frame at 1s900ms
+* [[File:img_00059.png]] - frame at 1s933ms
+* [[File:img_00060.png]] - frame at 1s967ms
+* [[File:img_00061.png]] - frame at 2s
+* [[File:img_00062.png]] - frame at 2s33ms
+* [[File:img_00063.png]] - frame at 2s67ms
+* [[File:img_00064.png]] - frame at 2s100ms
+* [[File:img_00065.png]] - frame at 2s133ms
+* [[File:img_00066.png]] - frame at 2s167ms
+* [[File:img_00067.png]] - frame at 2s200ms
+* [[File:img_00068.png]] - frame at 2s233ms
+* [[File:img_00069.png]] - frame at 2s267ms
+* [[File:img_00070.png]] - frame at 2s300ms
+* [[File:img_00071.png]] - frame at 2s333ms
+* [[File:img_00072.png]] - frame at 2s367ms
+* [[File:img_00073.png]] - frame at 2s400ms
+* [[File:img_00074.png]] - frame at 2s433ms
+* [[File:img_00075.png]] - frame at 2s467ms
+* [[File:img_00076.png]] - frame at 2s500ms
+* [[File:img_00077.png]] - frame at 2s533ms
+* [[File:img_00078.png]] - frame at 2s567ms
+* [[File:img_00079.png]] - frame at 2s600ms
+* [[File:img_00080.png]] - frame at 2s633ms
+* [[File:img_00081.png]] - frame at 2s667ms
+* [[File:img_00082.png]] - frame at 2s700ms
+* [[File:img_00083.png]] - frame at 2s733ms
+* [[File:img_00084.png]] - frame at 2s767ms
+* [[File:img_00085.png]] - frame at 2s800ms
+* [[File:img_00086.png]] - frame at 2s833ms
+* [[File:img_00087.png]] - frame at 2s867ms
+* [[File:img_00088.png]] - frame at 2s900ms
+* [[File:img_00089.png]] - frame at 2s933ms
+* [[File:img_00090.png]] - frame at 2s967ms
+* [[File:img_00091.png]] - frame at 3s
+* [[File:img_00092.png]] - frame at 3s33ms
+* [[File:img_00093.png]] - frame at 3s67ms
+* [[File:img_00094.png]] - frame at 3s100ms
+* [[File:img_00095.png]] - frame at 3s133ms
+* [[File:img_00096.png]] - frame at 3s167ms
+* [[File:img_00097.png]] - frame at 3s200ms
+* [[File:img_00098.png]] - frame at 3s233ms
+* [[File:img_00099.png]] - frame at 3s267ms
+* [[File:img_00100.png]] - frame at 3s300ms
+* [[File:img_00101.png]] - frame at 3s333ms
+* [[File:img_00102.png]] - frame at 3s367ms
+* [[File:img_00103.png]] - frame at 3s400ms
+* [[File:img_00104.png]] - frame at 3s433ms
+* [[File:img_00105.png]] - frame at 3s467ms
+* [[File:img_00106.png]] - frame at 3s500ms
+* [[File:img_00107.png]] - frame at 3s533ms
+* [[File:img_00108.png]] - frame at 3s567ms
+* [[File:img_00109.png]] - frame at 3s600ms
+* [[File:img_00110.png]] - frame at 3s633ms
+* [[File:img_00111.png]] - frame at 3s667ms
+* [[File:img_00112.png]] - frame at 3s700ms
+* [[File:img_00113.png]] - frame at 3s733ms
+* [[File:img_00114.png]] - frame at 3s767ms
+* [[File:img_00115.png]] - frame at 3s800ms
+* [[File:img_00116.png]] - frame at 3s833ms
+* [[File:img_00117.png]] - frame at 3s867ms
+* [[File:img_00118.png]] - frame at 3s900ms
+* [[File:img_00119.png]] - frame at 3s933ms
+* [[File:img_00120.png]] - frame at 3s967ms
+* [[File:img_00121.png]] - frame at 4s
+* [[File:img_00122.png]] - frame at 4s33ms
+* [[File:img_00123.png]] - frame at 4s67ms
+* [[File:img_00124.png]] - frame at 4s100ms
+* [[File:img_00125.png]] - frame at 4s133ms
+* [[File:img_00126.png]] - frame at 4s167ms
+* [[File:img_00127.png]] - frame at 4s200ms
+* [[File:img_00128.png]] - frame at 4s233ms
+* [[File:img_00129.png]] - frame at 4s267ms
+* [[File:img_00130.png]] - frame at 4s300ms
+* [[File:img_00131.png]] - frame at 4s333ms
+* [[File:img_00132.png]] - frame at 4s367ms
+* [[File:img_00133.png]] - frame at 4s400ms
+* [[File:img_00134.png]] - frame at 4s433ms
+* [[File:img_00135.png]] - frame at 4s467ms
+* [[File:img_00136.png]] - frame at 4s500ms
+* [[File:img_00137.png]] - frame at 4s533ms
+* [[File:img_00138.png]] - frame at 4s567ms
+* [[File:img_00139.png]] - frame at 4s600ms
+* [[File:img_00140.png]] - frame at 4s633ms
+* [[File:img_00141.png]] - frame at 4s667ms
+* [[File:img_00142.png]] - frame at 4s700ms
+* [[File:img_00143.png]] - frame at 4s733ms
+* [[File:img_00144.png]] - frame at 4s767ms
+* [[File:img_00145.png]] - frame at 4s800ms
+* [[File:img_00146.png]] - frame at 4s833ms
+* [[File:img_00147.png]] - frame at 4s867ms
+* [[File:img_00148.png]] - frame at 4s900ms
+* [[File:img_00149.png]] - frame at 4s933ms
+* [[File:img_00150.png]] - frame at 4s967ms
+* [[File:img_00151.png]] - frame at 5s
+* [[File:img_00152.png]] - frame at 5s33ms
+* [[File:img_00153.png]] - frame at 5s67ms
+* [[File:img_00154.png]] - frame at 5s100ms
+* [[File:img_00155.png]] - frame at 5s133ms
+* [[File:img_00156.png]] - frame at 5s167ms
+* [[File:img_00157.png]] - frame at 5s200ms
+* [[File:img_00158.png]] - frame at 5s233ms
+* [[File:img_00159.png]] - frame at 5s267ms
+* [[File:img_00160.png]] - frame at 5s300ms
+* [[File:img_00161.png]] - frame at 5s333ms
+* [[File:img_00162.png]] - frame at 5s367ms
+* [[File:img_00163.png]] - frame at 5s400ms
+* [[File:img_00164.png]] - frame at 5s433ms
+* [[File:img_00165.png]] - frame at 5s467ms
+* [[File:img_00166.png]] - frame at 5s500ms
+* [[File:img_00167.png]] - frame at 5s533ms
+* [[File:img_00168.png]] - frame at 5s567ms
+* [[File:img_00169.png]] - frame at 5s600ms
+* [[File:img_00170.png]] - frame at 5s633ms
+* [[File:img_00171.png]] - frame at 5s667ms
+* [[File:img_00172.png]] - frame at 5s700ms
+* [[File:img_00173.png]] - frame at 5s733ms
+* [[File:img_00174.png]] - frame at 5s767ms
+* [[File:img_00175.png]] - frame at 5s800ms
+* [[File:img_00176.png]] - frame at 5s833ms
+* [[File:img_00177.png]] - frame at 5s867ms
+* [[File:img_00178.png]] - frame at 5s900ms
+* [[File:img_00179.png]] - frame at 5s933ms
+* [[File:img_00180.png]] - frame at 5s967ms
+* [[File:img_00181.png]] - frame at 6s
+* [[File:img_00182.png]] - frame at 6s33ms
+* [[File:img_00183.png]] - frame at 6s67ms
+* [[File:img_00184.png]] - frame at 6s100ms
+* [[File:img_00185.png]] - frame at 6s133ms
+* [[File:img_00186.png]] - frame at 6s167ms
+* [[File:img_00187.png]] - frame at 6s200ms
+* [[File:img_00188.png]] - frame at 6s233ms
+* [[File:img_00189.png]] - frame at 6s267ms
+* [[File:img_00190.png]] - frame at 6s300ms
+* [[File:img_00191.png]] - frame at 6s333ms
+* [[File:img_00192.png]] - frame at 6s367ms
+* [[File:img_00193.png]] - frame at 6s400ms
+* [[File:img_00194.png]] - frame at 6s433ms
+* [[File:img_00195.png]] - frame at 6s467ms
+* [[File:img_00196.png]] - frame at 6s500ms
+* [[File:img_00197.png]] - frame at 6s533ms
+* [[File:img_00198.png]] - frame at 6s567ms
+* [[File:img_00199.png]] - frame at 6s600ms
+* [[File:img_00200.png]] - frame at 6s633ms
+* [[File:img_00201.png]] - frame at 6s667ms
+* [[File:img_00202.png]] - frame at 6s700ms
+* [[File:img_00203.png]] - frame at 6s733ms
+* [[File:img_00204.png]] - frame at 6s767ms
+* [[File:img_00205.png]] - frame at 6s800ms
+* [[File:img_00206.png]] - frame at 6s833ms
+* [[File:img_00207.png]] - frame at 6s867ms
+* [[File:img_00208.png]] - frame at 6s900ms
+* [[File:img_00209.png]] - frame at 6s933ms
+* [[File:img_00210.png]] - frame at 6s967ms
+* [[File:img_00211.png]] - frame at 7s
+* [[File:img_00212.png]] - frame at 7s33ms
+* [[File:img_00213.png]] - frame at 7s67ms
+* [[File:img_00214.png]] - frame at 7s100ms
+* [[File:img_00215.png]] - frame at 7s133ms
+* [[File:img_00216.png]] - frame at 7s167ms
+* [[File:img_00217.png]] - frame at 7s200ms
+* [[File:img_00218.png]] - frame at 7s233ms
+* [[File:img_00219.png]] - frame at 7s267ms
+* [[File:img_00220.png]] - frame at 7s300ms
+* [[File:img_00221.png]] - frame at 7s333ms
+* [[File:img_00222.png]] - frame at 7s367ms
+* [[File:img_00223.png]] - frame at 7s400ms
+* [[File:img_00224.png]] - frame at 7s433ms
+* [[File:img_00225.png]] - frame at 7s467ms
+* [[File:img_00226.png]] - frame at 7s500ms
+* [[File:img_00227.png]] - frame at 7s533ms
+* [[File:img_00228.png]] - frame at 7s567ms
+* [[File:img_00229.png]] - frame at 7s600ms
+* [[File:img_00230.png]] - frame at 7s633ms
+* [[File:img_00231.png]] - frame at 7s667ms
+* [[File:img_00232.png]] - frame at 7s700ms
+* [[File:img_00233.png]] - frame at 7s733ms
+* [[File:img_00234.png]] - frame at 7s767ms
+* [[File:img_00235.png]] - frame at 7s800ms
+* [[File:img_00236.png]] - frame at 7s833ms
+* [[File:img_00237.png]] - frame at 7s867ms
+* [[File:img_00238.png]] - frame at 7s900ms
+* [[File:img_00239.png]] - frame at 7s933ms
+* [[File:img_00240.png]] - frame at 7s967ms
+* [[File:img_00241.png]] - frame at 8s
+
+=== Copy-paste source lines ===
+
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s33ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s67ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s100ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s133ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s167ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s200ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s233ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s267ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s300ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s333ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s367ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s400ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s433ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s467ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s500ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s533ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s567ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s600ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s633ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s667ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s700ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s733ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s767ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s800ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s833ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s867ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s900ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s933ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 0s967ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s33ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s67ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s100ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s133ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s167ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s200ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s233ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s267ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s300ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s333ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s367ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s400ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s433ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s467ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s500ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s533ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s567ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s600ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s633ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s667ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s700ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s733ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s767ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s800ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s833ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s867ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s900ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s933ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 1s967ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s33ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s67ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s100ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s133ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s167ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s200ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s233ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s267ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s300ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s333ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s367ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s400ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s433ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s467ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s500ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s533ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s567ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s600ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s633ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s667ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s700ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s733ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s767ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s800ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s833ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s867ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s900ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s933ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 2s967ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s33ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s67ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s100ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s133ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s167ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s200ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s233ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s267ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s300ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s333ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s367ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s400ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s433ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s467ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s500ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s533ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s567ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s600ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s633ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s667ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s700ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s733ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s767ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s800ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s833ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s867ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s900ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s933ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 3s967ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s33ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s67ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s100ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s133ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s167ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s200ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s233ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s267ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s300ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s333ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s367ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s400ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s433ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s467ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s500ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s533ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s567ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s600ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s633ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s667ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s700ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s733ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s767ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s800ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s833ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s867ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s900ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s933ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 4s967ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s33ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s67ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s100ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s133ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s167ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s200ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s233ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s267ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s300ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s333ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s367ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s400ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s433ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s467ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s500ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s533ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s567ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s600ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s633ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s667ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s700ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s733ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s767ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s800ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s833ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s867ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s900ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s933ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 5s967ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s33ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s67ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s100ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s133ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s167ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s200ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s233ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s267ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s300ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s333ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s367ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s400ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s433ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s467ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s500ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s533ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s567ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s600ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s633ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s667ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s700ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s733ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s767ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s800ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s833ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s867ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s900ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s933ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 6s967ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s33ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s67ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s100ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s133ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s167ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s200ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s233ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s267ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s300ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s333ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s367ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s400ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s433ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s467ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s500ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s533ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s567ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s600ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s633ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s667ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s700ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s733ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s767ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s800ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s833ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s867ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s900ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s933ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 7s967ms]]
+[[File:Smiling_and_turning_head_20261022185552.mp4|frame at 8s]]
