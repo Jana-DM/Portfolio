@@ -155,11 +155,11 @@ section:before{content:"";position:absolute;inset:0;z-index:-1;background:linear
 <div id="canvas-stage" aria-hidden="true">
   <div id="frame-fallback">
     <div class="fallback-art"></div><div class="fallback-core"></div>
-    <div class="fallback-copy">SECURE<span>THE DIGITAL</span><em>FRONTIER.</em><span>SCROLL-DRIVEN FRAME BACKGROUND · ADD YOUR 191 IMAGES TO ACTIVATE</span></div>
+    <div class="fallback-copy">SECURE<span>THE DIGITAL</span><em>FRONTIER.</em><span>SCROLL-DRIVEN FRAME BACKGROUND · ADD YOUR 241 IMAGES TO ACTIVATE</span></div>
   </div>
   <canvas id="frame-canvas"></canvas>
 </div>
-<div id="frame-status">FRAME 001 / 191</div>
+<div id="frame-status">FRAME 001 / 241</div>
 <nav class="site-nav" aria-label="Main navigation">
   <a href="#hero" class="active">HOME</a><a href="#about">ABOUT</a><a href="#services">SERVICES</a><a href="#projects">PROJECTS</a><a href="#skills">SKILLS</a><a href="#journey">JOURNEY</a><a href="#contact">CONTACT</a>
 </nav>
@@ -375,7 +375,7 @@ section:before{content:"";position:absolute;inset:0;z-index:-1;background:linear
         <a class="btn" href="https://github.com/Jana-DM/Jana" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i> GitHub</a>
         <a class="btn" href="https://www.linkedin.com/in/jana7/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin-in"></i> LinkedIn</a>
         <a class="btn" href="https://www.instagram.com/icon__starxx/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"></i> Instagram</a>
-        <a class="btn" href="JANARTHANAN_R_RESUME.pdf" target="_blank" rel="noopener noreferrer"><i class="fa-regular fa-file-pdf"></i> View Resume</a>
+        <a class="btn" href="JANARTHANAN_R_RESUME.pdf" download="JANARTHANAN_R_RESUME.pdf" target="_blank" rel="noopener noreferrer"><i class="fa-regular fa-file-pdf"></i> View Resume</a>
       </div>
       <div class="footer-line"><span>© <span id="year"></span> JANARTHANAN R</span><span>Learn continuously. Secure responsibly.</span></div>
     </div>
@@ -393,15 +393,14 @@ section:before{content:"";position:absolute;inset:0;z-index:-1;background:linear
 <script>
 (() => {
   "use strict";
-  const FRAME_COUNT = 191;
-  const FRAME_EXTENSIONS = ["jpg", "jpeg", "png", "webp", "bmp"];
-  const FRAME_PATH = (index, extension) => `frames/img_${String(index).padStart(5, "0")}.${extension}`;
+  const FRAME_COUNT = 241;
+  const FRAME_PATH = (index) => `frames/img_${String(index).padStart(5, "0")}.png`;
   const canvas = document.getElementById("frame-canvas");
   const ctx = canvas.getContext("2d", { alpha: true });
   const fallback = document.getElementById("frame-fallback");
   const status = document.getElementById("frame-status");
   const progress = document.getElementById("scroll-progress");
-  const images = new Array(FRAME_COUNT);
+  const images = new Array(FRAME_COUNT + 1);
   let currentFrame = 1, loadedCount = 0, failedCount = 0, lastDrawn = 0, ticking = false;
   let canvasW = 0, canvasH = 0, dpr = Math.min(window.devicePixelRatio || 1, 2);
 
@@ -429,7 +428,6 @@ section:before{content:"";position:absolute;inset:0;z-index:-1;background:linear
       fallback.style.display = "none";
       lastDrawn = currentFrame;
     } else {
-      // Keep the last available frame visible while the requested frame loads.
       const prior = images[lastDrawn];
       if (prior && prior.complete && prior.naturalWidth > 0) {
         const scale = Math.min(canvasW / prior.naturalWidth, canvasH / prior.naturalHeight);
@@ -448,25 +446,19 @@ section:before{content:"";position:absolute;inset:0;z-index:-1;background:linear
     const img = new Image();
     images[index] = img;
     img.decoding = "async";
-    let extensionIndex = 0;
     img.onload = () => {
       loadedCount++;
       if (index === currentFrame) drawFrame(currentFrame);
       if (loadedCount > 0) fallback.style.display = "none";
     };
     img.onerror = () => {
-      extensionIndex++;
-      if (extensionIndex < FRAME_EXTENSIONS.length) {
-        img.src = FRAME_PATH(index, FRAME_EXTENSIONS[extensionIndex]);
-        return;
-      }
       failedCount++;
       if (index === currentFrame && loadedCount === 0) {
         fallback.style.display = "grid";
-        fallback.innerHTML = `<div class="fallback-art"></div><div class="fallback-core"></div><div class="fallback-copy">SECURE<span>THE DIGITAL</span><em>FRONTIER.</em><span>ANIMATED BACKGROUND PREVIEW · CHECK THAT FRAMES 1–191 EXIST</span></div>`;
+        fallback.innerHTML = `<div class="fallback-art"></div><div class="fallback-core"></div><div class="fallback-copy">SECURE<span>THE DIGITAL</span><em>FRONTIER.</em><span>ANIMATED BACKGROUND PREVIEW · CHECK THAT FRAMES 1–241 EXIST</span></div>`;
       }
     };
-    img.src = FRAME_PATH(index, FRAME_EXTENSIONS[extensionIndex]);
+    img.src = FRAME_PATH(index);
   }
 
   function updateFromScroll() {
@@ -477,7 +469,6 @@ section:before{content:"";position:absolute;inset:0;z-index:-1;background:linear
     const nextFrame = Math.min(FRAME_COUNT, Math.max(1, Math.round(ratio * (FRAME_COUNT - 1)) + 1));
     if (nextFrame !== currentFrame) {
       preloadFrame(nextFrame);
-      // Also preload neighbors so quick scroll movement feels continuous.
       preloadFrame(nextFrame - 1);
       preloadFrame(nextFrame + 1);
       drawFrame(nextFrame);
@@ -491,14 +482,12 @@ section:before{content:"";position:absolute;inset:0;z-index:-1;background:linear
     }
   }
 
-  // Start with the first few images; remaining frames load lazily near the scroll position.
   for (let i = 1; i <= 8; i++) preloadFrame(i);
   resizeCanvas();
   window.addEventListener("resize", resizeCanvas, { passive: true });
   window.addEventListener("scroll", requestScrollUpdate, { passive: true });
   window.addEventListener("load", requestScrollUpdate);
 
-  // Section-aware active navigation.
   const navLinks = [...document.querySelectorAll(".site-nav a")];
   const sections = [...document.querySelectorAll("main section")];
   if ("IntersectionObserver" in window) {
